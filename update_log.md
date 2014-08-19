@@ -16,7 +16,7 @@
 ### 2013年5月30日更新
 
 - 为方便大家安装，特地写了`setup.sh`脚本，可以通过下面的命令一键安装：
-    - `wget https://raw.github.com/ma6174/vim/master/setup.sh && bash setup.sh`
+    - `wget https://raw.github.com/qin117445/vim/master/setup.sh && bash setup.sh`
 
 ### 2013年5月26日更新
 
